@@ -1,2 +1,2 @@
 # factorial_function
-Calculate factorial of f=given range of numbers.
+Python program to calculate factorial of given range of numbers.
