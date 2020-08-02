@@ -1,2 +1,2 @@
 # factorial_function
-Calculate factorial
+Calculate factorial of f=given range of numbers.
